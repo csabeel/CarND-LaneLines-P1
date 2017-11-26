@@ -1,4 +1,4 @@
-# **Finding Lane Lines on the Road** ss
+# **Finding Lane Lines on the Road** 
 
 ## Writeup Template
 
