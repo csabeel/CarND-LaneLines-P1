@@ -1,4 +1,4 @@
-# **Finding Lane Lines on the Road** ss2225. 26112017
+# **Finding Lane Lines on the Road**
 
 ## Writeup Template
 
